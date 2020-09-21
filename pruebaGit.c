@@ -45,5 +45,7 @@ int main()
             printf(" \n su numero no es valido ");
             break;
     }
+
+    printf(" \n Gracias por usar el programa ");
     return 0;
 }
