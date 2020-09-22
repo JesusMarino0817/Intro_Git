@@ -7,6 +7,7 @@ int main()
 {
     /* Declarar la variable dia que es la que podra en usuario*/
     int dia;
+    printf("Hola, gracias por usar mi programa! \n");
     printf(" Digite un numero del 1 al 7: ");
     scanf("%i", &dia);
     /*Usar switch para que el programa imprima en la pantalla el nombre del dia que representa ese numero */
